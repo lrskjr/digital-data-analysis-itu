@@ -1,1 +1,8 @@
-﻿
+﻿# Om kurset
+Det handler om at bruge data til at skaffe ny viden.
+Visualiseringer, kreativitet og kodning indgår i dette. Smuk kodning er ikke det allevigtigste. 
+Resultaterne skal bare være der.
+
+# Eksamen
+Du skal aflevere en opgave. Det skal handle om databehandling og data skal findes online.
+Hvert medlem af gruppen skal bidrage lige meget til analysen. Du skal aflevere en jupyter notebook og dine data.
